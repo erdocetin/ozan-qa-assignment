@@ -252,7 +252,6 @@ buildNumber.properties
 *noot
 *mies
 
-
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
