@@ -67,9 +67,9 @@ public class Engine {
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setConnectTimeout(5000);
             conn.connect();
-            if(conn.getResponseCode() == 200) {
-                result = true;
-            }
+            
+            result = true;
+            
             System.out.println(String.format("Checking link[%s] finished.", link.getLink()));
         } catch (IOException exception) {
             System.out.println(String.format("Connection to link[%s] failed", link.getLink()));

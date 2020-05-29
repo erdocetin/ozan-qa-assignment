@@ -6,7 +6,7 @@
 
 - Install JDK 8 for OSX (https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
 - Install Apache Maven (https://maven.apache.org/download.cgi)
-  
+- Make sure that you have Chrome installed in your computer (https://www.google.com/chrome/) 
 
 ### Build
 
@@ -25,4 +25,4 @@ Writing a crawler that opens up the “Shop By Department” dropdown menu on th
 
 ### Description
 
-This app writes files under the TEMP folder. Because of every computer has different TEMP paths on their own, the path we are writing currently will be stated on console
+This app writes files under the TEMP folder. Because of every computer has different TEMP paths on their own, the path we are writing currently will be stated on console under "File saved to path:"

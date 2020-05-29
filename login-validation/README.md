@@ -6,6 +6,7 @@
 
 - Install JDK 8 for OSX (https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
 - Install Apache Maven (https://maven.apache.org/download.cgi)
+- Make sure that you have Chrome installed in your computer (https://www.google.com/chrome/) 
 
 
 ### Setup
